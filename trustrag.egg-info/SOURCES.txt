@@ -1,0 +1,6 @@
+README.md
+pyproject.toml
+trustrag.egg-info/PKG-INFO
+trustrag.egg-info/SOURCES.txt
+trustrag.egg-info/dependency_links.txt
+trustrag.egg-info/top_level.txt
